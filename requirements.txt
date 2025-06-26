@@ -1,0 +1,16 @@
+# = Model dan Tokenizer =
+transformers
+peft
+huggingface_hub
+
+# = Streamlit UI =
+streamlit
+
+# = RAG dan Vector DB =
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+
+scikit-learn
+torch
